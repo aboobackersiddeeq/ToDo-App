@@ -62,7 +62,7 @@ background-color: yellow    ;
 }
 .strike {
     /* text-decoration:line-through; */
-    text-decoration-color: aliceblue;
+    text-decoration-color: rgb(224, 202, 202);
     cursor: pointer;
     text-decoration-line: line-through;
  }
@@ -71,8 +71,8 @@ background-color: yellow    ;
  }
  .edit-btn{
     border-radius: 5px;
-    margin: -35px 100px;
-    padding: 3px 5px;
+    margin: -35px 80px;
+padding: 3px 5px;
     border:none;
     cursor: pointer;
     color: black;
